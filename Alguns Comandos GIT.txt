@@ -1,0 +1,19 @@
+Vim:cria e edita um arquivo ao mesmo tempo(salvar alterações aperta esc,editar aperta i de insert,WQ salvar e sair, Q sair,antes de fazer qualquer alteração colocar :
+Touch:cria arquivo com nome
+Mv:renomeia arquivos e move para outros lugares
+Rm:deleta diretório e arquivos
+Cp:copia arquivos
+Cd:navega entre as pastas
+Ls:lista os diretórios
+Find:proucura arquivos
+Ls –la:mostra o tamanho do diretório
+Git status: ajuda a monitorar o status dos arquivos (se esta untracked,tracked ou staged)
+git add *:move todos os arquivos do diretório para staged
+git commit –m”msg...”
+git remote add origin: adiciona repositorios 
+git remote –v : lista as lista de repositórios cadastrados
+git push:empurra os arquivos alocados na nuvem
+git pull:puxa os arquivos alocados na nuvem
+git clone:clona repositórios do github ou outros repositórios
+ls-a: mostra pastas ocultas
+
